@@ -1,4 +1,4 @@
-// require express & handlebars
+// require express & mongoose
 const mongoose = require("mongoose");
 var express = require("express");
 // require routes
