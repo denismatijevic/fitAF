@@ -13,7 +13,7 @@
 
 
 # Issues
-
+ * Difficulty connecting to mongodb
 
 # Future-Plans
 
