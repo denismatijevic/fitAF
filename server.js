@@ -5,7 +5,7 @@ const logger = require("morgan")
 // require routes
 var routes = require("./routes/api-routes");
 var routes = require("./routes/view-routes");
-var PORT = process.env.PORT || 3000;
+var PORT = process.env.PORT || 8080;
 
 var app = express();
 app.use(logger("dev"));
