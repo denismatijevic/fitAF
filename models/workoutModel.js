@@ -17,23 +17,31 @@ const workoutSchema = new Schema({
         require: true
       },
       weight: {
-        type: String,
+        type: Number,
         require: true
       },
       set: {
-        type: String,
+        type: Number,
         require: true
       },
       reps: {
-        type: String,
+        type: Number,
         require: true
+      },
+      distance: {
+        type: Number,
+        required: true
       },
       duration: {
         type: Number
       }
     }
   ]
-})
+},
+{
+  toJSON: {}
+}
+);
 const Workout = model("Workout", workoutSchema)
 
 module.exports = Workout;
