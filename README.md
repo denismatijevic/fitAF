@@ -20,7 +20,7 @@
 
 # Link 
 
-[Link to fitAF]( https://git.heroku.com/fitaf.git)
+[Link to fitAF](https://fitaf.herokuapp.com/)
 
 # Screenshot
 
