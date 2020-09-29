@@ -14,6 +14,7 @@
 
 # Issues
  * Difficulty connecting to mongodb
+ * Had a hard time connecting it to heroku
 
 # Future-Plans
 
@@ -24,6 +25,8 @@
 
 # Screenshot
 
-![]()
+![website](images/app.png)
 
-![]()
+![exercise](images/exercise.png)
+
+![database](images/database.png)
