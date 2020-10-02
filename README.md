@@ -1,4 +1,7 @@
 # fitAF
+* A way to track your workouts
+* Able to enter resistance training and cardiovascular training
+* Once the workout is completed you are able to see your last workout on the home page
 
 # Table of Contents
 
