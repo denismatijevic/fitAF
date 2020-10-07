@@ -20,7 +20,7 @@ mongoose.connect(process.env.MONGODB_URI || "mongodb://localhost/fitaf",{
   useNewUrlParser: true,
   useFindAndModify: false
 });
-// mongoose.connect.once("open", ()=>{
+// local host message
   app.listen(PORT, function() {
     console.log("App listening on port:%s", PORT);
   });
