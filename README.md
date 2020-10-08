@@ -18,6 +18,7 @@
 # Issues
  * Difficulty connecting to mongodb
  * Had a hard time connecting it to heroku
+ * Figuring out how to display stats
 
 # Future-Plans
 
